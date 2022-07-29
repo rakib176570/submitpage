@@ -1,0 +1,420 @@
+
+@media all and (max-width:1400px) {
+    button.creat {
+       
+        padding: 12px 20px;
+    }
+    .join {
+        font-size: 190%;
+    }  
+    .check-sub-form input {
+        width: 68%;
+       
+    } 
+    .check-sub-form button {
+        padding: 10px 25px;
+        margin-left: 5px;
+    }
+}
+@media all and (max-width:1200px) {
+    .navbar-light .navbar-nav .nav-link {
+        margin: 0 7px;
+    }
+    .check-sub-form input {
+        width: 71%;
+    }
+    .check-form-bottom label {
+        font-size: 15px;
+    }
+    .checkbox {
+        position: relative;
+        top: -25px;
+    }
+    .checkbox1 {
+        width: 90%;
+    }
+    h2.join {
+        font-size: 151%;
+    }
+    button.creat {
+        padding: 8px 10px;
+    }
+    .check-sub-form input {
+        width: 64%;
+    }
+    .check-sub-form button {
+        padding: 10px 24px;
+       
+    }
+    .check-sub-form::before {
+        width: 120%;
+    }
+    .check-sub-form::after {
+        width: 120%;
+    }
+    .order-text {
+        margin-left: -73px;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 19px !important;
+    }
+    .check-title {
+        font-size: 16px;
+        margin-left: 45px;
+    }
+    .check-title1 {
+        font-size: 14px;
+        margin-left: 45px;
+    }
+    .form-check {
+        font-size: 13px;
+    }
+}
+@media all and (max-width:991px) {
+    .checkbox {
+        position: inherit;
+        top: 0px;
+    }
+    .padding-extra1 {
+        border-left: none;
+    }
+    .res-tab {
+        width: 40%;
+        margin: auto;
+    }
+    .cros {
+        position: relative;
+    }
+    .round-ex2 {
+        position: absolute;
+        top: -173px;
+        right: -45px;
+    }
+    .check-product-text {
+        text-align: center;
+        margin-top: 10px;
+    }
+    .check-right {
+        border-left: none;
+    }
+    .check-sub-form input {
+        width: 85%;
+    }
+    .min-device {
+        margin-top: 20px;
+    }
+    .button {
+        margin-left: 0 !important;
+    }
+    .theme ul li{
+        padding-left: 0px;
+    }
+    .lorem {
+        padding-left: 0px;
+    }
+    .footer-extra ul {
+        margin-left: -10px;
+    }
+    .padding-extra1 {
+        padding-left: 0px;
+    }
+    .check-sub-form::before {
+        width: 109%;
+    }
+    .check-sub-form::after {
+        width: 109%;
+    }
+    #navbarSupportedContent {
+        background: #fff !important;
+        padding-left: 10px;
+        padding-bottom: 15px;
+    }
+    .form-check {
+        font-size: 16px;
+    }
+    .check-title {
+        font-size: 20px;
+        margin-left: 0px;
+    }
+    .check-title1 {
+        font-size: 16px;
+        margin-left: 0px;
+    }
+    .label-extra {
+        margin-top: 0px;
+    }
+    .height-form {
+        margin-top: 5px;
+    }
+    .q-form {
+        margin-top: 5px;
+    }
+    .said-bar {
+        height: auto !important;
+    }
+    .fast-img img {
+        margin-bottom: 40px !important;
+    }
+    .shihab {
+        padding-right: 0px;
+    }
+}
+@media all and (max-width:768px) {
+    .res-tab {
+        width: 50%;
+    }
+    .check-sub-form input {
+        width: 79%;
+    }
+    .checkbox {
+        position: relative;
+        top: -25px;
+    }
+    button.creat {
+       
+        width: 80%;
+    }
+    .check-sub-form::before {
+        left: -31px;
+        width: 120% !important;
+    }
+    .check-sub-form::after {
+        left: -31px;
+        width: 120% !important;
+    }
+}
+@media all and (max-width:576px) {
+    .check-image::before {
+        top: 23%;
+    }
+    .box3 {
+        text-align: center;
+        margin-left: 37px;
+    }
+    
+    
+}
+@media all and (max-width:575px) {
+    .order-tex1 {
+        margin-right: 5px;
+    }
+    .check-image-box {
+        text-align: center;
+    }
+    .order-text {
+        margin-left: -5px;
+    }
+    .check-image::before {
+        content: "";
+        border-top: none;
+    }
+    .check-image-box .coustom-image1 {
+        width: 5%;
+    }
+    .check-image-box {
+        margin-bottom: 30px;
+    }
+    .footet-top {
+        width: 40%;
+        margin: auto;
+    }
+    .lorem p {
+        text-align: center;
+        padding: 0 30px;
+    }
+    .footer-extra {
+        text-align: center;
+    }
+    .copy-right {
+        text-align: center;
+    }
+    .footer-widget1{
+        text-align: center;
+    }
+    .widget-social ul {
+        justify-content: center;
+    }
+    .check-sub-form {
+        padding: 20px 30px;
+    }
+    .check-pricing {
+        padding: 0 30px;
+    }
+    .check-pricing-final {
+        padding: 0 30px;
+    }
+    .check-form-bottom {
+        padding: 0 30px;
+    }
+    .fast-img img {
+        margin-bottom: 15px !important;
+    }
+    .check-sub-form input {
+        width: 78%;
+    }
+}
+@media all and (max-width:570px) {
+    .check-sub-form input {
+        width: 77%;
+    }
+}
+@media all and (max-width:570px) {
+    .check-sub-form input {
+        width: 76%;
+    }
+}
+@media all and (max-width:532px) {
+    .check-sub-form input {
+        width: 75%;
+    }
+}
+@media all and (max-width:530px) {
+    .check-sub-form input {
+        width: 74%;
+    }
+    .res-tab {
+        width: 65%;
+    }
+    .check-image-box .coustom-image1 {
+        width: 7%;
+    }
+}
+@media all and (max-width:501px) {
+    .check-sub-form input {
+        width: 73%;
+    }
+}
+@media all and (max-width:489px) {
+    .check-sub-form input {
+        width: 72%;
+    }
+    h2.join {
+        font-size: 128%;
+        margin-left: 25px;
+    }
+    .cooker {
+        width: 90% !important;
+        margin-left: 15px;
+    }
+}
+@media all and (max-width:485px) {
+    .check-sub-form input {
+        width: 72%;
+    }
+    .check-sub-form button {
+        padding: 10px 21px;
+    }
+    .check-image-box .coustom-image1 {
+        width: 7%;
+    }
+}
+@media all and (max-width:460px) {
+    .footet-top {
+        width: 50%;
+    }
+    .check-sub-form input {
+        width: 70%;
+    }
+    .check-sub-form button {
+        padding: 9px 10px;
+    }
+    .check-image-box .coustom-image1 {
+        width: 7%;
+    }
+    .botom-text-left h3 {
+        font-size: 20px;
+    }
+    .botom-text-right h5 {
+        font-size: 14px;
+    }
+    .botom-text-right span {
+        font-size: 14px;
+    }
+    h2.join {
+        font-size: 127%;
+        margin-left: 13px;
+    }
+    .check-title {
+        font-size: 19px;
+
+    }
+    .check-sub-form {
+        padding: 19px 0px;
+    }
+    .check-pricing {
+        padding: 0px 1px;
+    }
+    .check-pricing-final {
+        padding: 0 1px;
+    }
+    .check-sub-form button {
+        padding: 9px 13px;
+    }
+    .futer-top {
+        margin-top: 8px;
+    }
+}
+@media all and (max-width:440px) {
+    .check-sub-form input {
+        width: 73%;
+    }
+}
+@media all and (max-width:433px) {
+    .check-sub-form input {
+        width: 70%;
+    }
+    .check-form-bottom label {
+        font-size: 15px;
+    }
+    h2.join {
+        font-size: 120%;
+    }
+}
+@media all and (max-width:405px) {
+    h2.join {
+        font-size: 110%;
+    }
+    
+}@media all and (max-width:397px) {
+    .check-sub-form input {
+        width: 68%;
+    }
+    h2.join {
+        font-size: 110%;
+    }
+    
+}
+@media all and (max-width:390px){
+    .home-logo img {
+        width: 214px;
+    }
+    h2.join {
+        font-size: 101%;
+        margin-left: 15px;
+        padding-bottom: 10px;
+    }
+    button.creat {
+        margin-left: 35px;
+       
+    }
+}
+@media all and (max-width:372px){
+    input[type="text"] {
+        width: 100%;
+    }
+    h2.join {
+        font-size: 102%;
+        margin-left: 13px;
+    }
+    input.plassholder {
+        width: 73%;
+    }
+}
+@media all and (max-width:370px) {
+    .check-sub-form input {
+        width: 68%;
+    }
+    .footet-top {
+        width: 55%;
+    }
+}
